@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Khúc Phát",
+      "phone": "0963581901",
+      "address": "Hưng Yên",
+      "email": "anhphat2j@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Thanh Nga",
+      "phone": "0968689868",
+      "address": "Hưng Yên",
+      "email": "thanhnga@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Văn Hậu",
+      "phone": "0368686889",
+      "address": "Thái Bình",
+      "email": "vanhau@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Kỳ Duyên",
+      "phone": "0968978979",
+      "address": "Hà Nội",
+      "email": "kyduyen@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Quế Hải",
+      "phone": "0368986689",
+      "address": "Nghệ An",
+      "email": "quehai@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Minh Tú",
+      "phone": "0998888899",
+      "address": "Hải Phòng",
+      "email": "minhtu@gmail.com"
+    },
+    {
+      "user": {
+        "name": "Đỗ Thị Thanh Nga"
+      },
+      "id": 7
+    }
+  ]
+}
